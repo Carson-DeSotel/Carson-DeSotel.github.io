@@ -10,15 +10,15 @@ email: carson.desotel@gmail.com
 avatar: /images/UK1jLwb-square_edit.jpg
 description: > # this means to ignore newlines until "baseurl:"
   Personal website with plans for hosting projects, blogs, etc.
-
-show_excerpts: true # set to false to remove excerpts on the homepage
-
-theme: minima
-remote_theme: /jekyll/minima
-
+  
 minima:
   social-links:
     github: Carson-DeSotel
     twitter: totallycarson
     stackoverflow: users/10751604/carson
     linkedin: carson-desotel
+    
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
+remote_theme: /jekyll/minima
