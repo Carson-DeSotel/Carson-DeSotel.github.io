@@ -1,13 +1,7 @@
-# 
-# Custom Configurations [ 05 - 19 - 2019 ]
-# 
-
-# https://github.com/barryclark/jekyll-now/blob/master/_config.yml
-
 title: Chez Carson
 author: Carson DeSotel
 email: carson.desotel@gmail.com
-avatar: /images/UK1jLwb-square_edit.jpg
+
 description: > # this means to ignore newlines until "baseurl:"
   Personal website with plans for hosting projects, blogs, etc.
   
@@ -22,3 +16,9 @@ minima:
 
 # Build settings 
 theme: minima
+
+# 
+# Custom Configurations [ 05 - 19 - 2019 ]
+# 
+
+# https://github.com/barryclark/jekyll-now/blob/master/_config.yml
