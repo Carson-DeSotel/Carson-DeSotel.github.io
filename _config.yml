@@ -18,8 +18,8 @@ github_username:  Carson-DeSotel
 footer-links:
   github: Carson-DeSotel
   twitter: totallycarson
-  stackoverflow: users/10751604/carson
-  linkedin: carson-desotel
+  #stackoverflow: users/10751604/carson
+  #linkedin: carson-desotel
   
 show_excerpts: true # set to false to remove excerpts on the homepage
 
