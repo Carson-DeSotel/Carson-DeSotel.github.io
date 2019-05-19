@@ -1,4 +1,4 @@
-## Chez Carson
+## Bonjour! Bienvenue à chez Carson!
 
 Carson DeSotel's brand-new, shiny, radiation-free test website!
 
