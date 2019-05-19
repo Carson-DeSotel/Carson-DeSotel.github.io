@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
 show_excerpts: false # set to true to show excerpts on the homepage
 
 minima:
-  social-links:
+  social_links:
     github: Carson-DeSotel
     twitter: totallycarson
     stackoverflow: users/10751604/carson
