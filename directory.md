@@ -7,10 +7,10 @@ permalink: /directory/
 Links to all posts currently hosted on the webpage:
 
 <ul>
-{% for post in site.posts %}
+{% for page in site.posts %}
   <li>
-    <a href="{% post.permalink %}">{% post.title %}</a>
-    <p>{{ post.excerpt }}</p>
+    <a href="{% page.permalink %}">{% page.title %}</a>
+    <p>{{ page.excerpt }}</p>
   </li>
 {% endfor %}
 </ul>
