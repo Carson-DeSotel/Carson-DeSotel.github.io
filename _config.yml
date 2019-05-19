@@ -15,13 +15,14 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: totallycarson
 github_username:  Carson-DeSotel
 
-show_excerpts: true # set to false to remove excerpts on the homepage
-
-theme: minima
-remote_theme: /jekyll/minima
-
 footer-links:
   github: Carson-DeSotel
   twitter: totallycarson
   stackoverflow: users/10751604/carson
   linkedin: carson-desotel
+  
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
+remote_theme: /jekyll/minima
+
