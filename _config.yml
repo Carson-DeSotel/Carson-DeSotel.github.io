@@ -1,12 +1,19 @@
 title: Chez Carson
 author: Carson DeSotel
 email: carson.desotel@gmail.com
+avatar: /images/UK1jLwb-square_edit.jpg
 description: > # this means to ignore newlines until "baseurl:"
   Personal website with plans for hosting projects, blogs, etc.
+
 # social links
 twitter_username: totallycarson
 github_username:  Carson-DeSotel
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-minimal
+sass:
+  sass_dir: _scss
+gems:
+  minima
+
+theme: minima
