@@ -1,0 +1,5 @@
+https://github.com/jekyll/minima
+https://github.com/mhart/blog/blob/master/_blog.config.yml
+https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site
+https://github.com/jektify/jektify
+https://github.com/andriannp/spotify-embed-on-Jekyll
