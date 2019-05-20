@@ -7,8 +7,6 @@ date: 2019-05-20
 
 this image was made possible [here](https://www.neverendingchartrendering.org/)
 
-# My Top Albums
-
 ## Why? 
 Because why not? This is more for me than the general public. I thought it would be interesting to post some of my favorite albums now and then come back in a few years to see where I stand. 
 
