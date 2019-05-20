@@ -23,7 +23,7 @@ This row is all about synth, techno, and some more electronic inspired music. Ki
 ### Row Two
 ![Row Two](/images/favoriteAlbums/row2.png)
 
-Here's where a lot of my more *mainstream* pop preferences lie. Recently I've been finding myself more interested in a genre called "bedroom pop" (as dubbed by Spotify). If you want to check it out, [here's](/2019/05/18/spotify-test.md) an example of a playlist I recently made that features a similar style.
+Here's where a lot of my more *mainstream* pop preferences lie. Recently I've been finding myself more interested in a genre called "bedroom pop" (as dubbed by Spotify). If you want to check it out, [here's](/2019/05/18/spotify-test.html) an example of a playlist I recently made that features a similar style.
 
 ### Row Three
 ![Row Three](/images/favoriteAlbums/row3.png)
