@@ -1,3 +1,9 @@
+---
+layout: page
+title: Home
+permalink: /home/
+---
+
 ![Carson](images/desotel-13.jpg)
 ## Welcome to my webpage!
 This webpage is currently an area for me to share about myself and my experiences as a student.
