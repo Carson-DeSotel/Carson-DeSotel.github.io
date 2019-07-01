@@ -1,5 +1,7 @@
-## Bonjour! Bienvenue à chez Carson!
+![Carson](images/desotel-13.jpg)
+## Welcome to my webpage!
+This webpage is currently an area for me to share about myself and my experiences as a student.
+Stick around if you think it's interesting! 
 
-Carson DeSotel's brand-new, shiny, radiation-free test website!
-
-This website is my own personal playground for hosting my projects and thoughts. It's mainly for testing things out and doing things when I get bored. 
+Thank you!
+- Carson
