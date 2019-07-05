@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Test of Spotify Website Integration"
+title: Spotify Playlists from my D&D session.
 date: 2019-05-18
 sp1: spotify/playlist/12UFTTzfrK4QJEe6UivufC
 sp2: spotify/playlist/5MaM9waLxuBJ2cixrEWfvk
