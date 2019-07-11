@@ -17,6 +17,9 @@ I'm getting pretty worried. This seems to be a more monumental task than I would
 
 # Links
 https://developer.spotify.com/documentation/web-api/quick-start/
+
 https://developer.spotify.com/documentation/general/guides/authorization-guide/
+
 https://flask.palletsprojects.com/en/1.0.x/
+
 https://2.python-requests.org/en/master/
