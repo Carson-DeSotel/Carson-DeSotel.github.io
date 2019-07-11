@@ -10,7 +10,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 minima:
   social_links:
     github: Carson-DeSotel
-    twitter: totallycarson
+    twitter: carson_desotel
     stackoverflow: users/10751604/carson
     linkedin: carson-desotel
 
