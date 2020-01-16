@@ -17,7 +17,6 @@ minima:
 header-pages:
  - about.md
  - directory.html
- - projects.html
 
 # Build settings 
 theme: minima
