@@ -1,17 +1,17 @@
-title: Chez Carson
+title: Carson DeSotel
 author: Carson DeSotel
 email: carson.desotel@gmail.com
 
-description: > # this means to ignore newlines until "baseurl:"
-  Personal website with plans for hosting projects, blogs, etc.
+description: > 
+  Welcome to my site! I'm Carson! This is a place to share some of the things I'm interested in, things I'm working on, and some of the lessons I've learned.
   
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 minima:
   social_links:
     github: Carson-DeSotel
     twitter: carson_desotel
-    stackoverflow: users/10751604/carson
+    stackoverflow_username: 10751604/carson
     linkedin: carson-desotel
 
 header-pages:
