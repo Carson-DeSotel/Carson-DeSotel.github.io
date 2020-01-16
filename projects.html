@@ -4,5 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
-<a href=/_projects/2020-01-16-project-the-worst-idea.md/>The Worst Idea: A Frankenstein-esque Horror of Programming Languages
-</a>
+<ul>
+  {% for project in site.projects %}
+    <li>
+      <a href="{{ project.url }}">{{ project.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
