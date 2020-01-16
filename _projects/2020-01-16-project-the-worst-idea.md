@@ -4,8 +4,6 @@ title: "The Worst Idea: A Frankenstein-esque Horror of Programming Languages"
 date: 2020-01-16
 ---
 
-# The Worst Idea: A Frankenstein-esque Horror of Programming Languages
-
 This is a program that interfaces through 3 (or 4, counting bash) programming languages to create a "more random" number.
 
 [link to repository here](https://github.com/Carson-DeSotel/the-worst-idea)
