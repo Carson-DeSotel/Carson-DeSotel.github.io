@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "The Worst Idea: A Frankenstein-esque Horror of Programming Languages"
 date: 2020-01-16
 ---
