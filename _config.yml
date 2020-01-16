@@ -3,7 +3,7 @@ author: Carson DeSotel
 email: carson.desotel@gmail.com
 
 description: > 
-  Welcome to my site! I'm Carson! This is a place to share some of the things I'm interested in, things I'm working on, and some of the lessons I've learned.
+  This is a place to share some of the things I'm interested in, things I'm working on, and some of the lessons I've learned.
   
 show_excerpts: true # set to true to show excerpts on the homepage
 
@@ -17,6 +17,7 @@ minima:
 header-pages:
  - about.md
  - directory.html
+ - projects.html
 
 # Build settings 
 theme: minima
