@@ -1,8 +1,11 @@
 ![Carson](images/desotel-13.jpg)
-## Welcome to my webpage!
-This webpage is currently an area for me to share about myself and my experiences as a student.
-Stick around if you think it's interesting! 
 
-Thank you!
+# Carson DeSotel
 
-\- Carson
+A current student studying computer science and geography?
+
+Exactly. Here's more ![about me](/about/).
+
+What have I been doing to hone my blade? Check my ![projects](/projects/).
+
+Want to see how I write and what I write about? Check my ![directory](/directory/) for more blog posts.

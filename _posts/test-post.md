@@ -1,3 +1,3 @@
-## This is a test. 
+# test post please ignore
 
-Thank you for visiting, here's a link to a video. [link](https://youtu.be/-UftRfo3WZE)
+Thanks for visiting. The site should be all good soon!
