@@ -4,6 +4,8 @@ title: "What I've Learned As A Teaching Assistant"
 date: 2020-02-19
 ---
 
+Over three semesters, how have I managed to become a better TA? How can I improve in the future? What can we all take away from my experiences?
+
 # Contents:
 
 *In an effort to allow the reader to take away exactly what they need from this post, I've organized it into the following sections:*
@@ -17,7 +19,7 @@ date: 2020-02-19
 <a name="about_me"> </a>
 # About Me:
 
-<img src="_images/carson_TA_article.jpg" alt="me" height="250" width="250" class="center">
+<img src="images/carson_TA_article.jpg" alt="me" height="250" width="250" class="center">
 
 Heya!
 
@@ -38,10 +40,7 @@ carson.desotel@gmail.com
 
 I've chosen a few stories that I'd like to tell that I think of fondly in my work experiences. 
 
-There was a particular student that I had last semester who I particularly enjoyed helping. She was always enthusiastic about the material, and her enjoyment and self fulfillment from coming to a solution with my help made my days. I remember in particular the first time we met in lab. She had told me that she was a Freshman[^1] and was unsure that she was correctly placed into this course[^2].
-
-[^1]: Freshman, Fall semester;  a very stressful time 
-[^2]: CSCI 1913, the second course in one of the introduction tracks which focuses on algorithms and data structures.
+There was a particular student that I had last semester who I particularly enjoyed helping. She was always enthusiastic about the material, and her enjoyment and self fulfillment from coming to a solution with my help made my days. I remember in particular the first time we met in lab. She had told me that she was a Freshman and was unsure that she was correctly placed into this course, having just come from highschool with the prerequisite couse fulfilled by AP Computer Science. In that moment, I had 2 goals: to reassure her that she was doing okay and to keep her motivated to stay in the course. The first thing I did was I said, "First, welcome to the U! We're excited to have you here!" I quite like the way I phrased that, it's familiar and inclusive, which I feel would help to ease someone's nerves about being at such a big school. I then talked through her concerns and about her past experiences and identified some of the root causes for this worry. It was *recursion* and a particularly hard lab. That class had a particularly difficult first lab that could have been used to frighten students and prepare them for the road ahead.
 
 ---
 
