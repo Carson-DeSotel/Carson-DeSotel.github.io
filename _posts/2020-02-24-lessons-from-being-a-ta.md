@@ -19,9 +19,9 @@ Over three semesters, how have I managed to become a better TA? How can I improv
 <a name="about_me"> </a>
 # About Me:
 
-![me](../images/carson_TA_article.jpg)
+<img src=https://github.com/Carson-DeSotel/Carson-DeSotel.github.io/blob/master/images/carson_TA_article.jpg width="400" height="400"/>
 
-<img  src=../images/carson_TA_article.jpg width="400" height="400" align="center"/>
+![me](https://github.com/Carson-DeSotel/Carson-DeSotel.github.io/blob/master/images/carson_TA_article.jpg){:height="400px" width="400px"}
 
 Heya!
 
@@ -48,6 +48,8 @@ There was a particular student that I had last semester who I particularly enjoy
 
 <a name="failure"> </a>
 # Failures:
+
+I have a hard time moving past implicit biases, we all do. As humans, we're more likely to gravitate to people similar to us, whether that is physically similar or mentally similar.
 
 ---
 
