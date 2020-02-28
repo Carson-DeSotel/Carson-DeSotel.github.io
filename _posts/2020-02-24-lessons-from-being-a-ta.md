@@ -19,14 +19,9 @@ Over three semesters, how have I managed to become a better TA? How can I improv
 <a name="about_me"> </a>
 # About Me:
 
-<img src="/_images/carson_TA_article.jpg" alt="me" height="250" width="250" class="center">
+![me](../images/carson_TA_article.jpg)
 
-<img src="../images/carson_TA_article.JPG" alt="me" height="250" width="250" class="center">
-
-<img src="./_images/carson_TA_article.jpg" alt="me" height="250" width="250" class="center">
-
-<img src="../_posts/_images/carson_TA_article.jpg" alt="me" height="250" width="250" class="center">
-
+<img  src=../images/carson_TA_article.jpg width="400" height="400" align="center"/>
 
 Heya!
 
