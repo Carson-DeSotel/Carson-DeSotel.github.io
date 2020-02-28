@@ -20,7 +20,7 @@ Over three semesters, how have I managed to become a better TA? How can I improv
 # About Me:
 
 ![me](/images/carson_TA_article.jpg)<!-- .element height="400px" width="400px" -->
-
+<img src="/images/carson_TA_article.jpg" alt="me" height="400px" width="400px">
 
 
 
