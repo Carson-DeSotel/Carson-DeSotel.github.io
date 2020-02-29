@@ -16,6 +16,9 @@ Over three semesters, how have I managed to become a better TA? How can I improv
 * [Failures](#failure)
     - [Crossing the Language Barrier](#language)
     - [Word Choice](#words)
+* [Takeaways](#takeaways)
+    - [Applications to Being a TA](#apps)
+    - [Thoughts on Leadership](#leader)
 * [Q&A](#qa)
 
 --- 
@@ -29,7 +32,7 @@ My name is Carson DeSotel, I'm a current sophomore at the University of Minnesot
 
 I'm writing this post as a form of self-introspection and as a way to communicate what I've found success in and what I've found failure in through the past few semesters. This post has been inspired by scholarly articles from lifetime educators who have decades of experience with teaching. In no ways am I equating my experience to theirs, nor am I hoping to appear as an expert on the subject matter. I'd like to present myself as someone who is currently going through all the trials and tribulations of being a teaching assistant. Through this post, I hope to provide solace if you're experiencing similar problems, or maybe ways you could look to improve. 
 
-It's always to get more knowledge and opinions out into the world. By providing my own experience, I hope to help find answers to questions and methodologies that others may find useful.
+It's always beneficial to get more knowledge and opinions out into the world. By providing my own experience, I hope to help find answers to questions and methodologies that others may find useful.
 
 Any comments, questions, or concerns can be directed to my email: 
 
@@ -44,7 +47,7 @@ carson.desotel@gmail.com
 ## Welcome to College:
 There was a particular student that I had last semester who I particularly enjoyed helping. She was always enthusiastic about the material, and her enjoyment and self fulfillment from coming to a solution with my help made my day. 
 
-I remember in particular the first time we met in lab. She had told me that she was a Freshman and was unsure that she was correctly placed into this course, having just come from highschool with the prerequisite couse fulfilled by AP Computer Science. In that moment, I had 2 goals: 
+I remember in particular the first time we met in lab. She had told me that she was a freshman and was unsure that she was correctly placed into this course, having just come from highschool with the prerequisite couse fulfilled by AP Computer Science. In that moment, I had 2 goals: 
 * to reassure her that she was doing okay 
 * and to keep her motivated to stay in the course. 
 
@@ -130,6 +133,27 @@ At this point, I had felt upset because I had added him to my schedule. I was up
 As I go forward as a TA, I look back at this experience as a good learning experience. It was one of my more truly difficult situations, and I feel that there are many things to take away from it in terms of being an official and how my relationships with students aren't always as friendly as I try to make them in lab.
 
 How would you have handled this situation? What words would you have chosen?
+
+---
+
+<a name="takeaways"> </a>
+# Takeaways:
+
+How can I be the best I can be? In order for me to be the best version of myself, I feel that constant observation and re-evaluation of my life and personal goals can help guide me to make the best decsisions possible. 
+
+I also firmly believe that not enough people take the time to take a moment to look at their life. In the digital age, oftentimes our lives are going faster than we would expect, and we're unable to take the time to appreciate each day as it passes.
+
+I'd encourage you to stop and ask yourself if there is anything you can do to make your life more enjoyable for yourself.
+
+<a name="apps"> </a>
+## Applications to Being a TA:
+
+To become a better TA, find the areas in which you excel and try to find ways to improve those. Being a TA is a diverse job involving communication, critical thinking, time management, and leadership skills. If you feel that you have a certain area of your position that you are better at, try to make strides in that area. Are you a good communicator? Think of better ways you can get across concepts to your students in lab. Alongside this, by bolstering your weaknesses alongside strengths, you can improve yourself in all walks of life. For example, I wasn't the best at grading, so I looked at why I wasn't: I didn't set aside a specific time to do it. By making a change to my behavior and giving myself a specific time to grade in, I can improve my experience by being able to get more work done. I wouldn't have been able to identify that problem if I hadn't been paying attention to myself.
+
+<a name="leader"> </a>
+## Thoughts on Leadership:
+
+I think that there is a specific person that makes a good TA, a good leader, and ultimately a good teacher. They're ruthless people that do whatever they can to help themselves and others advance forward. I feel that some of the best leaders have often asked themselves "What can I do better?" and as a result, they followed a plan and became better for it. You have to be active in your own life, you cannot take a passenger role. In the case of [Word Choice](#words), I wouldn't have learned something from that interaction if I hadn't thought there was something that I could learn to improve from it. By asking people and confronting my weakness, I have learned to be more careful with how I interact with students in the future, and the language and attitude I portray in my different roles.
 
 ---
 
