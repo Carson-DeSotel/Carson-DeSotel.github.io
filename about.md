@@ -6,22 +6,24 @@ permalink: /about/
 
 ![Carson](/images/desotel-27.jpg)
 
-Heya! My name's Carson, I'm a current Sophomore at the University of Minnesota - Twin Cities.
+Heya! My name's Carson and I'd like to welcome you to my blog.
+
+This blog is full of my experiences as a college student and as a developing industry professional. If you want to see how I've approached problems, the things I've made, and the experiences I want to share, this is the best place to do so.
 
 ## Education:
 
-I'm currently studying Computer Science and Geography. Why those? I took a course that used programs like Google Earth, Google Maps, and ArcGIS to look at how we can use software to solve problems facing out lives each and every day. My degrees would allow me a particular insight into analyzing geographic data to come up with solutions to problems like the urban commute, access to food in food deserts, and urban sprawl in general. These issues have come to light over my time living in Minneapolis.
-
-My goal is to use my skillset to reduce the carbon impact that cars have and to increase the ease with which people travel through cities.
+I am currently studying computer science and geography at the University of Minnesota - Twin Cities. I've become more and more interested in continuing past my bachelor's degrees and into graduate studies. I hope to keep you updated as that path becomes more set in stone.
 
 ## Work Experience:
 
-I'm currently in my second year as a teaching assistant at the University. I've taught two different courses; Introduction to C/C++ for Scientists and Engineers and Introduction to Algorithms and Data Structures. I adore my job! It's one of the most challenging and rewarding experiences that I could have right now. I find a deep fulfillment and satisfaction when I help a student solve a problem or get them to ask more insightful questions on the subject matter. It's **always** a good day when I learn something too.
+Occasionally, I will talk about my experience as a teaching assistant, which is one of my favorite positions I've been able to fulfill. I've been a teaching assistant since my freshman year during the spring semester. I've currently taught two different classes: Introduction to C++ and Introduction to Algorithms and Data Structures.
 
 ## Hobbies:
 
-I have fallen head-first into many hobbies. My most useful one is cooking! I watch as many cooking videos as I can and love trying new recipes or recreating some of my favorites from my family. There's really nothing better than giving someone something to eat and hearing "This is delicious!" in return.
+I think we can learn a lot about ourselves through our hobbies, which is why I believe this section to be important.
 
-I also have recently started collecting vinyl records! I love getting old and new vinyl alike. Some of my favorite purchases are *M.F. Horn Two* by Maynard Ferguson, *In the Court of the Crimson King* by King Crimson, and *Nonagon Infinity* by King Gizzard and the Lizard Wizard. It's a treat getting to stop in at the Electric Fetus here in Minneapolis and look through all their new and old vinyl.
+I really enjoy reading! My favorite series is the Discworld series by Terry Pratchett. I haven't finished it yet, but it's extremely compelling and I can easily finish the books in just a few days.
 
-I love playing video games and board games. I am a frequent Dungeon Master for a few different groups of friends in our various Dungeons and Dragons games. I've often thought about doing more extensive write-ups of my sessions and posting them on here.
+I also really enjoy cooking! I love cooking for others and trying to cook new foods, or foods that family has cooked for me before. It's a great way to connect with people, relax, and still be productive.
+
+I'm also a fan of music! I recently started collecting vinyl, and am proud to say that I've collected three albums from one of my favorite artists: King Gizzard and the Lizard Wizard.
