@@ -10,4 +10,4 @@ Any inquiries or comments can be sent to my email carson.desotel@gmail.com
 
 Thank you very much! Have a great day!
 
-[Résumé](/pdfs/resume.pdf)
+[Résumé](https://github.com/Carson-DeSotel/resume/blob/master/build/resume.pdf)
