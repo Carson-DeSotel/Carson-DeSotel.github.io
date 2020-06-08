@@ -40,6 +40,6 @@ It's all right there. If you want to call yourself a patriot, but cannot acknowl
 
 ## In the End
 
-Thank you for reading. Most of this piece comes from my heart and personal beliefs, and thus if I don't have all the surrounding knowledge about the Black Lives Matter movement, the history of people of color in America, and what is currently being done, please email me at carson.desotel@gmail.com to help me improve my claim. 
-
 I'd also like to say that I've made a donation to the [Reclaim the Block](https://www.reclaimtheblock.org/home) organization so that they can push for preventative and proactive measures to crime in the Twin Cities areas such as funding for things that directly impact and improve the lives of our communities.
+
+I've made many updates to this piece, because there's hardly a "correct" way to approach it. There's too oo many topics to cover, and I've left it a bit short to maintain the pace, the visceral reactions that come with it. In no way can I accurately describe the entire history and plight of people of color in our country. Please do additional research, make your own pieces, share what you can. By doing that, we can show our strength as a community against this injustice. Thanks to everyone out on the front lines, peacefully protesting, cleaning, and taking care of each other. You're the real heroes.
