@@ -40,7 +40,7 @@ Our country was founded by those who felt slighted by a power who, fueled by gre
 > 
 > \- Declaration of Independance, July 4th 1776
 
-It's all right there. If you want to call yourself a patriot, but cannot acknowledge the strength and the power of this movement, you don't know the meaning of the foundation for which this country stands. And while that foundation is currently tarnished with the grafitti of racists and white supremacy, I hope that as a community, we can rise against it and preserve that very ideals for which our country was founded while being more inclusive and compassionate to all. 
+It's all right there. If you want to call yourself a patriot, but cannot acknowledge the strength and the power of this movement, you don't know the meaning of the foundation for which this country stands. And while that foundation is currently tarnished with the grafitti of racists and white supremacy, I hope that as a community, a country, we can rise against this injustice and preserve those very ideals for which our country was founded. This time, we need to truly be inclusive.
 
 ## In the End
 
