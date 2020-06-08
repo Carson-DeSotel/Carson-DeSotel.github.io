@@ -32,7 +32,7 @@ There must also be steps to solve governmental problems including [gerrymadering
 
 The inequality in America today and since 1776 shouldn't be seen as solely perpetuated by police, but also as a system set in place by centuries of racist beliefs and ideologies brought into place in all facets of our government today. How can a system set in place that long ago, by those who owned slaves still be completely infalliable to this day? Some are going to see that statement as akin to me pissing on our flag, but don't see the irony in disrespecting it with their own U.S. Flag merchandise that they constantly parade. 
 
-Our country was founded by those who felt slighted by a power who, fueled by greed and ignorance, sought to destroy the credibility of the people living where he was not. How can we stand by when those in our government are doing the same thing for which we declared independance from in 1776? 
+Our country was founded by those who felt slighted by a power who, fueled by greed and ignorance, sought to destroy the rights of the people living where he was not. How can we stand by when those in our government are doing the same thing for which we declared independance from in 1776? 
 
 > "When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.
 > 
