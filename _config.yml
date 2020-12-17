@@ -1,28 +1,6 @@
-title: Carson DeSotel
-author: Carson DeSotel
-email: carson.desotel@gmail.com
+url: "https://www.carsondesotel.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Carson's Page" # the name of your site, e.g. ACME Corp.
 
-description: > 
-  This is a place to share some of the things I'm interested in, things I'm working on, and some of the lessons I've learned.
-  
-show_excerpts: true # set to true to show excerpts on the homepage
-
-minima:
-  social_links:
-    github: Carson-DeSotel
-    twitter: carson_desotel
-    stackoverflow_username: 10751604/carson
-    linkedin: carson-desotel
-
-header-pages:
- - about.md
- - directory.html
-
-# Build settings 
-theme: minima
-
-# 
-# Custom Configurations [ 05 - 19 - 2019 ]
-# 
-
-# https://github.com/barryclark/jekyll-now/blob/master/_config.yml
+sass: 
+  sass_dir: _sass

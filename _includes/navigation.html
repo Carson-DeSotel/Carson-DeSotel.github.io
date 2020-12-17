@@ -1,0 +1,41 @@
+<nav>
+  <!-- 
+  {% for item in site.data.navigation %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
+  {% endfor %} 
+  -->
+
+  <div class="hov">
+    <a href="/">
+      <ion-icon name="home-outline"></ion-icon>
+    </a>
+    <div class="hidden">
+      <a href="/">
+        Home
+      </a>
+    </div>
+  </div>
+
+  <div class="hov">
+    <a href="/assets/pdfs/resume.pdf">
+      <ion-icon name="briefcase-outline"></ion-icon>
+    </a>
+    <div class="hidden">
+      <a href="/assets/pdfs/resume.pdf">
+        Resume
+      </a>
+    </div>
+  </div>
+
+  <div class="hov">
+    <a href="/blog">
+      <ion-icon name="document-text-outline"></ion-icon>    
+    </a>
+    <div class="hidden">
+      <a href="/blog">
+        Blog
+      </a>
+    </div>
+  </div>
+
+</nav>
