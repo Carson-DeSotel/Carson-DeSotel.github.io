@@ -1,157 +1,21 @@
-@import "colors";
+@import 'colors';
+@import 'navigation';
 
-$bg: $white;
-$fg: $base03;
-$tx: $base0;
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
 
 body {
-  display: flex;
-  color: $tx;
-  background-color: $bg;
-  min-height: 100vh;
-  margin: 0px;
-  padding: 0px;
+  background-color: $color-bg;
 }
 
-.main {
+a {
+  color: $color-fg;
+  text-decoration: none;
+}
+
+.blog {
   justify-content: center;
-  align-content: center;
-  min-width: 85vw;
-  padding-top: 5vh;
-  img {
-    width: 200px;
-    height: 200px;
-    border-radius: 301px;
-  }
-}
-
-.row {
-  display: flex;
-  flex: 1 1 0;
-  flex-direction: row;
-  justify-content: center;
-  align-content: center;
-}
-
-.col {
-  display: flex;
-  flex: 1 1 auto;
-  flex-direction: column;
-  justify-content: center;
-  align-content: center;
-}
-
-.col > * {
-  align-content: center;
-  align-self: center;
-  text-align: center;
-  color: $yellow;
-}
-
-.sidebar {
-  display: flex;
-  flex-direction: column;
-  background-color: $fg;
-  min-height: 100%;
-  min-width: 5vw;
-  padding: 1vw;
-  margin-right: 1vw;
-  font-size: x-large;
-  overflow: hidden;
-  position: sticky;
-  top: 0;
-
-  .social {
-    display: flex;
-    flex-direction: column;
-    position: absolute;
-    bottom: 0;
-    align-self: center;
-    align-content: center;
-    justify-content: center;
-    padding: 10px;
-
-    a {
-      color:$tx;
-      height: 100%;
-      width: 100%;
-      margin: 1vh;
-    }
-    a:visited {
-      color:$tx;
-    }
-  }
-}
-
-.sidebar > * {
-  color: $tx;
-}
-
-nav > * > * > *{
-  color: $tx;
-  margin-top: 1vh;
-  margin-bottom: 1vh;
-
-}
-
-nav {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  align-items: center;
-  padding: 1vh 0vh;
-
-  .hov {
-    a {
-      display: inline;
-      align-items: center;
-      justify-content: center;
-      margin: 1vh;
-    }
-
-    .hidden {
-      display: none;
-
-      a {
-        display: none;
-      }
-    }
-
-  }
-
-  .hov:hover {
-    a {
-      display: none;
-    }
-
-    .hidden {
-      display: block;
-      font-size: large;
-
-      a {
-        display: inline;
-        align-items: center;
-        justify-content: center;
-        margin: 1vh;
-      }
-    }
-  }
-}
-
-.blurb {
-  display: flex;
-  flex: 0 1 auto;
-  justify-content: center;
-  padding: 5vh 30vw;
-  margin: 30px;
-
-  .col {
-    margin: 50px;
-  }
-}
-
-ion-icon {
-  align-self: center;
-  min-width: 50%;
-  min-height: 50%;
 }
