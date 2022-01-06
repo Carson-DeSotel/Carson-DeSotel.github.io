@@ -10,6 +10,6 @@ title: "Carson DeSotel"
 # location of SASS files
 sass: 
   sass_dir: _sass
-
+  
 # choose to generate page excerpts
 page_excerpts: true
