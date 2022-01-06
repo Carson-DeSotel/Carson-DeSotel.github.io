@@ -39,3 +39,6 @@ bundle exec jekyll serve
 ```
 
 and then you can navigate to https://localhost:4000 to view the site.
+
+## Resources:
+This site is now using [Sass Flexbox Grid](http://sassflexboxgrid.com/).
