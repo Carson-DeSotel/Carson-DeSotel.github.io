@@ -1,0 +1,38 @@
+nav {
+    background-color: $color-dark-gray;
+    width: 100%;
+    display: flex;
+  
+    // holds the list and anything else being displayed
+    .nav-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+  
+      padding: 0px 10px;
+      width: 100%;
+  
+      color: $color-fg;
+  
+      // a logo / bit of text to represent the "site name"
+      // .nav-logo {
+      //   padding-left: 10px;
+      //   padding-right: 75%; // push list elements to the right side
+  
+      //   // keep in one line as dimensions change
+      //   overflow: hidden;
+      //   white-space: nowrap;
+      // }
+  
+      // members of the navigation list
+      .nav-item {
+        padding: 10px; // add padded border around whole element
+        list-style-type: none; // remove bullets
+  
+        // change anchor color
+        a:hover, a:hover::after {
+          color: $color-dark-blue;
+        }
+      }
+    }
+  }
