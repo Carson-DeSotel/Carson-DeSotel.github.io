@@ -1,8 +1,22 @@
 <nav>
-  <ul class="menu">
-    <h1> Carson DeSotel </h1>
-    {% for item in site.data.navigation %}
-      <li class="item"><a href="{{ item.link }}">{{ item.name }}</a></li>
-    {% endfor %}
+  <ul class="nav-bar row">
+    <!-- 
+      have name be representative as a logo
+      and navigate back to root
+    -->
+    <li class="nav-brand col show-md col-lg-4 col-xl-4">
+      <a href="/">Carson DeSotel</a>
+    </li>
+    <!-- hold remaining links in their own space -->
+    <div class="col-md-offset-4">
+      <ul class="nav-collection row middle around">
+        <!-- go through _data/navigation.yml and populate list with links -->
+        {% for item in site.data.navigation %}
+          <li class="nav-item col">
+            <a href="{{ item.link }}"> {{ item.name }} </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
   </ul>
 </nav>
