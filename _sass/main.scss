@@ -1,8 +1,15 @@
 // main file
 // handle imports from submodules using index files
 
-@use 'abstracts';
-@use 'components';
-@use 'core';
-@use 'layout';
-@use 'pages';
+// @use 'abstracts';
+// @use 'components';
+// @use 'core';
+// @use 'layout';
+// @use 'pages';
+
+// use import statements until Jekyll updates away from LibSass
+@import 'abstracts';
+@import 'components';
+@import 'core';
+@import 'layout';
+@import 'pages';

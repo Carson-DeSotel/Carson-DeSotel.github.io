@@ -1,26 +1,9 @@
 nav {
-    background-color: $color-dark-gray;
-    width: 100%;
-    display: flex;
-  
-    // holds the list and anything else being displayed
-    .nav-bar {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-  
-      padding: 0px 10px;
-      width: 100%;
-  
-      // members of the navigation list
-      .nav-item {
-        padding: 10px; // add padded border around whole element
-        list-style-type: none; // remove bullets
-  
-        // change anchor color
-        a:hover, a:hover::after {
-          color: $color-dark-blue;
-        }
-      }
-    }
+  .nav-bar {
+    background-color: cadetblue;
   }
+
+  .nav-brand {
+    color: red;
+  }
+}

@@ -1,4 +1,7 @@
 // index file
 // handle organizing all files in submodule for outside use
 
-@forward 'variables';
+// @forward 'variables';
+
+// use import statements until Jekyll updates away from LibSass
+@import 'variables';
