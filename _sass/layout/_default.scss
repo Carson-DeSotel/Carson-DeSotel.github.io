@@ -3,16 +3,28 @@ html, body {
 }
 
 body {
-  display: flex;
-  flex-direction: column;
   background-color: black;
 }
 
+article {
+  display: flex !important;
+  min-height: 100%;
+  align-items: stretch;
+  flex-direction: column;
+}
+
 .overlay {
-  padding: 0 2rem 2rem 2rem;
+  padding: 0 2rem;
 }
 
 .main-content {
-  flex: 1 0 auto;
   background-color: blanchedalmond;
+}
+
+.main-content, .overlay {
+  flex-grow: 1 !important;
+}
+
+.main-content, header, footer {
+  flex-shrink: 0 !important;
 }

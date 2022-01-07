@@ -1,6 +1,8 @@
 footer {
   background-color: $header-footer-color;
-  font-size: 1rem;
+  font-family: $normal-font;
+
+  font-size: 0.75rem;
   color: white;
   margin: 0.5rem 0rem;
   flex-shrink: 0;

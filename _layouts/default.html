@@ -12,27 +12,25 @@
     <!-- add fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code&family=VT323&display=swap" rel="stylesheet">
   </head>
 
   <!-- website design -->
   <body>
-    <!-- nav bar -->
-    {% include navigation.html %}
+    <article>
+      <!-- nav bar -->
+      {% include navigation.html %}
 
-    <!-- overlay content -->
-    <!-- 
-      center align and setting to col-xs-6 (6 / 12) will give
-      our box 50% of the page in the middle of the screen
-     -->
-    <div class="overlay row center-xs">
-      <!-- page content -->
-      <div class="main-content col-xs-6">
-        {{ content }}
+      <!-- overlay content -->
+      <div class="overlay row center-xs">
+        <!-- page content -->
+        <div class="main-content col-xs-6">
+          {{ content }}
+        </div>
       </div>
-    </div>
 
-    <!-- footer -->
-    {% include footer.html %}
+      <!-- footer -->
+      {% include footer.html %}
+    </article>
   </body>
 </html>

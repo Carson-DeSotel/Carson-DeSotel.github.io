@@ -1,4 +1,6 @@
 nav {
+  font-family: $normal-font;
+
   #{$a-tags} {
     color: white;
     text-decoration: none;
@@ -15,15 +17,18 @@ nav {
   }
 
   .nav-brand {
+    // font-family: $accent-font;
     display: flex;
     align-items: center;
     font-size: 2rem;
   }
 
   .nav-collection {
-    // flex-basis: 0;   
     text-align: justify;
+    margin: 0rem 0.5rem;
+
     .nav-item {
+      flex-basis: auto !important;   
       font-size: 1.4rem;
       margin: 0.5rem 0rem;
     }
