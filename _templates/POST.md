@@ -6,9 +6,6 @@ title: <!--- Fill Me In! --->
 date:  <!--- Fill Me In! --->
 categories: <!--- Fill Me In! -->
 ---
-
-# TITLE:
-
 <!-- Begin Excerpt -->
 
 <!-- more -->

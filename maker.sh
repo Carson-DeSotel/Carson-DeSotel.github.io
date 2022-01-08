@@ -10,8 +10,10 @@ if [[ "$#" -ne 2 ]]; then
   exit
 fi
 
+DATE=$(date --iso-8601=date)
+
 if [[ $1 == "post" ]]; then
-  cp "_templates/POST.md" "_posts/$2"
+  cp "_templates/POST.md" "_posts/$DATE-$2.md"
 else
   echo "Document type not recognized..."
 fi
