@@ -1,0 +1,15 @@
+// index file
+// handle organizing all files in submodule for outside use
+
+// @forward 'footer';
+// @forward 'grid';
+// @forward 'header';
+// @forward 'navigation';
+// @forward 'sidebar';
+
+// use import statements until Jekyll updates away from LibSass
+@import 'footer';
+@import 'grid';
+@import 'navigation';
+@import 'sidebar';
+@import 'default';

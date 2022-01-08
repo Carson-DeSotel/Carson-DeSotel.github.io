@@ -4,6 +4,8 @@ title: "Website Redesign"
 date: 2020-12-16
 ---
 
+Detailing why I chose to redesign the webpage.
+
 ## Why Redesign?
 So, I've just rebuilt the website from the ground up. I had a bit of free time on my hands since I've just finished my finals for the semester and figured that this would be a good thing to do in my downtime. Using HTML and SCSS was a big part of my job this summer at Optum, but I haven't played with it much since, so I wanted to take a crack at it and get some of the rust off. 
 

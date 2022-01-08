@@ -1,0 +1,9 @@
+// index file
+// handle organizing all files in submodule for outside use
+
+// @forward 'blog';
+// @forward 'home';
+
+// use import statements until Jekyll updates away from LibSass
+@import 'blog';
+@import 'home';

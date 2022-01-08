@@ -1,0 +1,26 @@
+.blog {
+  font-family: $normal-font;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: stretch;
+  flex-direction: column;
+
+  .row {
+    display: flex !important;
+    justify-content: center !important;
+
+    .col {
+      display: flex !important;
+      justify-content: center !important;
+    }
+  }
+
+  .list, .col {
+    justify-self: flex-start !important;
+  
+    li {
+      padding: 0.5rem 0;
+    }
+  }
+}
+

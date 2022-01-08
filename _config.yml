@@ -1,6 +1,15 @@
-url: "https://www.carsondesotel.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "Carson's Page" # the name of your site, e.g. ACME Corp.
+# the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.carsondesotel.com" 
 
+# the subpath of your site, e.g. /blog
+baseurl: "" 
+
+# the name of your site, e.g. ACME Corp.
+title: "Carson DeSotel" 
+
+# location of SASS files
 sass: 
   sass_dir: _sass
+  
+# choose to generate page excerpts
+page_excerpts: true
