@@ -21,6 +21,10 @@ nav {
     display: flex;
     align-items: center;
     font-size: 2rem;
+
+    #{$a-tags-hover} {
+      color: white;
+    }
   }
 
   .nav-collection {

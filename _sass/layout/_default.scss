@@ -3,7 +3,6 @@ html, body {
 }
 
 body {
-  background-color: black;
 }
 
 article {
@@ -11,6 +10,18 @@ article {
   min-height: 100%;
   align-items: stretch;
   flex-direction: column;
+
+  &::before {
+    background-image: url(/assets/images/IMG_1917.JPG);
+    content: "";
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.75;
+  }
 }
 
 .overlay {
@@ -18,7 +29,7 @@ article {
 }
 
 .main-content {
-  background-color: blanchedalmond;
+  background-color: whitesmoke;
 }
 
 .main-content, .overlay {
