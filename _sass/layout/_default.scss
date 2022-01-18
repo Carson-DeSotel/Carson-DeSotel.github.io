@@ -1,15 +1,14 @@
 html, body {
+  margin: 0;
   height: 100vh;
-}
-
-body {
 }
 
 article {
   display: flex !important;
-  min-height: 100%;
-  align-items: stretch;
   flex-direction: column;
+  height: 100%;
+
+  align-items: stretch;
 
   &::before {
     background-image: url(/assets/images/IMG_1917.JPG);
@@ -25,15 +24,15 @@ article {
 }
 
 .overlay {
+  flex: 1 !important;
+  overflow: auto;
   padding: 0 2rem;
 }
 
 .main-content {
+  height: 100%;
+  overflow: auto;
   background-color: whitesmoke;
-}
-
-.main-content, .overlay {
-  flex-grow: 1 !important;
 }
 
 .main-content, header, footer {
