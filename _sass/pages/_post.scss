@@ -1,0 +1,11 @@
+.post {
+  font-family: $normal-font;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: stretch;
+  flex-direction: column;
+
+  h1, h2, h3, h4, h5, h6 {
+    padding: 5px 0px;
+  }
+}
