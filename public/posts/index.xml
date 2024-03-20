@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Carson DeSotel</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Carson DeSotel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2024 22:11:02 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Site Redesign</title>
+      <link>//localhost:1313/posts/2024-03-19_site-redesign/</link>
+      <pubDate>Tue, 19 Mar 2024 22:11:02 -0500</pubDate>
+      <guid>//localhost:1313/posts/2024-03-19_site-redesign/</guid>
+      <description>I&amp;rsquo;m giving in!&#xA;Years ago, I stubbornly decided that I was better than pre-built themes and renderers. I wanted to build my own!&#xA;Thankfully, the urge to roll my own website has died down and I&amp;rsquo;m now prioritizing style and usability on mobile platforms!&#xA;I hope that I will find more use out of this website now, and I&amp;rsquo;ll continue posting to the blog as I see fit!&#xA;Stick around!</description>
+    </item>
+  </channel>
+</rss>
