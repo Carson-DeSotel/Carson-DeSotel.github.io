@@ -1,0 +1,40 @@
+baseURL = 'www.carsondesotel.com'
+languageCode = 'en-us'
+title = 'Carson DeSotel'
+
+theme = 'archie'
+
+paginate = 3
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+	mode="auto" # color-mode → light,dark,toggle or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = "Carson's Personal Website"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/athul/archie"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = 'Resume'
+url  = '/resume'
+weight = 4

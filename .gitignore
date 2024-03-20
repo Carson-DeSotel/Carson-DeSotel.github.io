@@ -1,14 +1,23 @@
-Gemfile.lock
+# joyfully obtained from https://github.com/github/gitignore/blob/main/Go.gitignore
 
-# Generated output
-_site/
+# If you prefer the allow list template instead of the deny list, see community template:
+# https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 
-# Added when running `jekyll new PATH` or serving in incremental mode
-.jekyll-metadata
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
 
-.jekyll-cache/
-.sass-cache/
+# Test binary, built with `go test -c`
+*.test
 
-# Bundle's config
-.bundle/
-vendor/
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+# Go workspace file
+go.work
