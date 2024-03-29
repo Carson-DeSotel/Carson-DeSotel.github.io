@@ -1,9 +1,3 @@
-+++
-title = 'Resume'
-date = 2024-03-19T22:26:08-05:00
-draft = false
-+++
-
 <iframe
     src="/pdfs/resume.pdf"
     frameBorder="0"

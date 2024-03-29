@@ -1,9 +1,3 @@
-+++
-title = 'About'
-date = 2024-03-19T22:26:01-05:00
-draft = false
-+++
-
 Hey! Welcome to my page! 
 
 I'm Carson, a professional software developer and amateur everything else.

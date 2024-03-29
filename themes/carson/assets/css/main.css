@@ -1,0 +1,59 @@
+/* import preferred themes */
+@import "normalize";
+@import "magick";
+
+/* overrides */
+:root {
+    /* Theme colors */
+    --fg: #0e0e0e;
+    --bg: #fefefe;
+    --form-bg: #fbfbfb;
+    --form-fg: #00004d;
+    --form-fg-placeholder: #00004d9a;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --fg: #fefefe;
+        --bg: #93B1A7;
+        --form-bg: #93B1A7s;
+        --form-fg: #fefefe;
+        --form-fg-placeholder: #fefefe9a;
+    }
+}
+
+header {
+    h1, h1::before, h1::after {
+        margin-bottom: 0rem;
+        padding: 0 0 0 0;
+        content: "";
+    }
+    h2, h3, h4 {
+        color: var(--fg);
+        text-align: center;
+        padding: 1rem 0 1rem 0;
+        margin: 0;
+        font-style: normal;
+        /* margin-bottom: 1rem; */
+    }
+}
+
+a::before {
+    content: '> ';
+}
+
+li {
+    a::before {
+        content: '';
+    }
+}
+
+footer {
+    a::before {
+        content: '';
+    }
+}
+
+h3:before {
+    content: "";
+}

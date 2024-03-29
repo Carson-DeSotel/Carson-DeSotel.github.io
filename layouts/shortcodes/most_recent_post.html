@@ -1,0 +1,6 @@
+<div>
+    {{ range ( where .Site.RegularPages "Type" "posts" | first 3 ) }}
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        {{ if .Summary }}{{ .Summary }}{{ end }}
+    {{end}}
+</div>

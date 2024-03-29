@@ -1,0 +1,3 @@
+<h1>{{ site.Title }}</h1>
+<h4>{{ if site.Params.subtitle }}{{ site.Params.subtitle }}{{ end }}</h4>
+{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
