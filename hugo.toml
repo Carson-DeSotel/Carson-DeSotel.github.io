@@ -1,40 +1,33 @@
-baseURL = 'www.carsondesotel.com'
+baseURL = 'localhost:1313'
 languageCode = 'en-us'
 title = 'Carson DeSotel'
 
-theme = 'archie'
+theme = 'carson'
 
-paginate = 3
-
+# render iframes
 [markup.goldmark.renderer]
-unsafe = true
+ unsafe = true
 
 [params]
 	mode="auto" # color-mode → light,dark,toggle or auto
-	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "Carson's Personal Website"
-
-[[params.social]]
-name = "GitHub"
-icon = "github"
-url = "https://github.com/athul/archie"
+	subtitle="(he/him) | software developer | game master"
 
 [[menu.main]]
-name = "Home"
+name = "home"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Posts"
+name = "posts"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "About"
+name = "about"
 url = "/about"
 weight = 3
 
 [[menu.main]]
-name = 'Resume'
+name = 'resume'
 url  = '/resume'
 weight = 4

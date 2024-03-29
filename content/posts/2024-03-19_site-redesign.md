@@ -2,6 +2,7 @@
 title = 'Site Redesign'
 date = 2024-03-19T22:11:02-05:00
 draft = false
+description: a brief description on the ongoing site redesign
 +++
 
 I'm giving in! 

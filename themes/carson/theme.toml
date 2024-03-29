@@ -1,0 +1,18 @@
+name = 'carson'
+# license = 'MIT'
+# licenselink = 'https://github.com/owner/repo/LICENSE'
+description = 'my personal website theme'
+
+# The home page of the theme, where the source can be found
+# homepage = 'https://github.com/owner/repo'
+
+# If you have a running demo of the theme
+# demosite = 'https://owner.github.io/repo'
+
+# Taxonomy terms
+tags = []
+features = []
+
+[author]
+  name = 'Carson DeSotel'
+  homepage = 'www.carsondesotel.com'

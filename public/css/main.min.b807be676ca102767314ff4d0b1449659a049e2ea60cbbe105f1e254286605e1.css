@@ -1,0 +1,1 @@
+@import "normalize.css";@import "magick.css";:root{--fg:#0e0e0e;--bg:#fefefe;--form-bg:#fbfbfb;--form-fg:#00004d;--form-fg-placeholder:#00004d9a}@media(prefers-color-scheme:dark){:root{--fg:#fefefe;--bg:#93B1A7;--form-bg:#93B1A7s;--form-fg:#fefefe;--form-fg-placeholder:#fefefe9a}}

@@ -6,28 +6,28 @@
     <description>Recent content on Carson DeSotel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Mar 2024 22:26:08 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 22:11:02 -0500</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Resume</title>
-      <link>//localhost:1313/resume/</link>
-      <pubDate>Tue, 19 Mar 2024 22:26:08 -0500</pubDate>
-      <guid>//localhost:1313/resume/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>//localhost:1313/about/</link>
-      <pubDate>Tue, 19 Mar 2024 22:26:01 -0500</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>Hey! Welcome to my page!&#xA;I&amp;rsquo;m Carson, a professional software developer and amateur everything else.&#xA;In 2022, I finished out my Bachelor&amp;rsquo;s programs at the University of Minnesota - Twin Cities and received my degrees in Computer Science and Geography.&#xA;Since then, I&amp;rsquo;ve been working at Optum on several different applications and data platforms.&#xA;Outside of work, I like to spend time playing games of any sort. It&amp;rsquo;s my favorite way to exercise my brain and spend time with the people I love.</description>
-    </item>
     <item>
       <title>Site Redesign</title>
       <link>//localhost:1313/posts/2024-03-19_site-redesign/</link>
       <pubDate>Tue, 19 Mar 2024 22:11:02 -0500</pubDate>
       <guid>//localhost:1313/posts/2024-03-19_site-redesign/</guid>
       <description>I&amp;rsquo;m giving in!&#xA;Years ago, I stubbornly decided that I was better than pre-built themes and renderers. I wanted to build my own!&#xA;Thankfully, the urge to roll my own website has died down and I&amp;rsquo;m now prioritizing style and usability on mobile platforms!&#xA;I hope that I will find more use out of this website now, and I&amp;rsquo;ll continue posting to the blog as I see fit!&#xA;Stick around!</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>Hey! Welcome to my page!&#xA;I&amp;rsquo;m Carson, a professional software developer and amateur everything else.&#xA;In 2022, I finished out my Bachelor&amp;rsquo;s programs at the University of Minnesota - Twin Cities and received my degrees in Computer Science and Geography.&#xA;Since then, I&amp;rsquo;ve been working at Optum on several different applications and data platforms.&#xA;Outside of work, I like to spend time playing games of any sort. It&amp;rsquo;s my favorite way to exercise my brain and spend time with the people I love.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/resume/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
