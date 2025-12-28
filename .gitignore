@@ -23,4 +23,8 @@
 go.work
 
 # compiled website
+public/*
 public/
+
+resources/*
+resources/

@@ -2,6 +2,13 @@
 
 start a local environment with 
 
-```bash
+```sh
 hugo server
+```
+
+make a new blog post with 
+
+```sh
+hugo new blogs/<file-name.md>
+
 ```
